@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# QtCreator
+*/build/*
+*.user
+*.autosave
+
+# Generated videos
+*.avi
